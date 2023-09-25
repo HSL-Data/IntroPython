@@ -13,7 +13,7 @@ This workshop will be focussing on the fundamentals of Python, a general purpose
 - [Mac install](https://www.anaconda.com/download/#macos)
 
 ## Getting the files for today
-- Go here: [https://github.com/epurpur/python-intro](https://github.com/HSL-Data/IntroPython)
+- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
 - Click "Clone or Download" (green button in upper right corner)
 - Click "Download Zip"
 - Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
