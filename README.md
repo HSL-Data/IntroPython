@@ -14,7 +14,7 @@ This workshop will be focussing on the fundamentals of Python, a general purpose
 
 ## Getting the files for today
 - Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
-- Click "Clone or Download" (green button in upper right corner)
+- Click "Code" (green button in upper right corner)
 - Click "Download Zip"
 - Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
 
@@ -30,6 +30,8 @@ Spyder is a Programming IDE (Integrated Development Environment) that comes with
 - text editor
 - variable explorer
 - console
+  
+We will also install a package to allow us to use notebooks in Spyder. To install run this line in the console (copy and paste, then press enter): spyder-notebook -c conda-forge. We'll also go over this together, so no need to install by yourself.  
 
 ### Python vs R
 - Both are open source programming languages
