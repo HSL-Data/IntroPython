@@ -31,7 +31,7 @@ Spyder is a Programming IDE (Integrated Development Environment) that comes with
 - variable explorer
 - console
   
-We will also install a package to allow us to use notebooks in Spyder. To install run this line in the console (copy and paste, then press enter): spyder-notebook -c conda-forge. We'll also go over this together, so no need to install by yourself.  
+We will also install a package to allow us to use notebooks in Spyder. To install run this line in the console (copy and paste, then press enter): conda install spyder-notebook -c conda-forge. We'll also go over this together, so no need to install by yourself.  
 
 ### Python vs R
 - Both are open source programming languages
