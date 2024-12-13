@@ -25,13 +25,13 @@ From www.python.org: "Python is an interpreted, object-oriented, high-level prog
 ### What is Anaconda?
 We will be using Anaconda which is a distribution of python that also includes addtional packages and software used for data analysis. It can make it easier to get started with programming because it installs many of the things you may need for you.
 
-### What is Spyder?
-Spyder is a Programming IDE (Integrated Development Environment) that comes with Anaconda. It was designed with data analysis in mind. It comes with:
+### What is JupyterLab?
+JupyterLab is a web-based interactive development environment (IDE) that comes with Anaconda. It has a flexible interface that will allow us to work with notebooks. Typically IDEs comes with:
 - text editor
 - variable explorer
 - console
   
-We will also install a package to allow us to use notebooks in Spyder. To install run this line in the console (copy and paste, then press enter): conda install spyder-notebook -c conda-forge. We'll also go over this together, so no need to install by yourself.  
+We will need to install a package to allow us to use a variable explorer in JupyterLab. We'll also go over this together, so no need to install by yourself.  
 
 ### Python vs R
 - Both are open source programming languages
