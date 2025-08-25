@@ -11,14 +11,7 @@ This workshop is provided by the Research and Data Services group in the Claude 
 This workshop will be focussing on the fundamentals of Python, a general purpose programming language. In advance of the workshop, we request that you install Anaconda. Links to the install site are below.
 - [Windows install](https://www.anaconda.com/download/#windows)
 - [Mac install](https://www.anaconda.com/download/#macos)
-
-## Getting the files for today
-- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
-- Click "Code" (green button in upper right corner)
-- Click "Download Zip"
-- Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
-
-      
+ 
 ## What is Python?
 From www.python.org: "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance."
 
@@ -39,6 +32,12 @@ We will need to install a package to allow us to use a variable explorer in Jupy
 - However both languages are still evolving and expanding
 - Both have the option to import additonal functionaly through libraries/packages
 - For data analysis/statistics in Python Pandas, NumPy and SciPy are very popular
+
+## Getting the files for today
+- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
+- Click "Code" (green button in upper right corner)
+- Click "Download Zip"
+- Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
 
 ## Outline for today
 1) Discuss some basics:
