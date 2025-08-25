@@ -26,18 +26,18 @@ JupyterLab is a web-based interactive development environment (IDE) that comes w
   
 We will need to install a package to allow us to use a variable explorer in JupyterLab. We'll also go over this together, so no need to install by yourself.  
 
+## Getting the files for today
+- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
+- Click "Code" (green button in upper right corner)
+- Click "Download Zip"
+- Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
+
 ### Python vs R
 - Both are open source programming languages
 - Python is a general purpose programming language while R is a statistical programming language
 - However both languages are still evolving and expanding
 - Both have the option to import additonal functionaly through libraries/packages
 - For data analysis/statistics in Python Pandas, NumPy and SciPy are very popular
-
-## Getting the files for today
-- Go here: [https://github.com/HSL-Data/IntroPython/](https://github.com/HSL-Data/IntroPython)
-- Click "Code" (green button in upper right corner)
-- Click "Download Zip"
-- Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
 
 ## Outline for today
 1) Discuss some basics:
