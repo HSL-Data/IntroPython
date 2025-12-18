@@ -8,10 +8,15 @@ This workshop is provided by the Research and Data Services group in the Claude 
 - [Ask Us Form](https://guides.hsl.virginia.edu/consultation-request)
 
 ## Workshop Preparation
-This workshop will be focussing on the fundamentals of Python, a general purpose programming language. In advance of the workshop, we request that you install Anaconda. Links to the install site are below.
-- [Windows install](https://www.anaconda.com/download/#windows)
-- [Mac install](https://www.anaconda.com/download/#macos)
- 
+This workshop will be focussing on the fundamentals of Python, a general purpose programming language. In advance of the workshop, we request that you install Anaconda. Before installing Anaconda, you will need to register for an Anaconda for Education account. Instructions are below:
+1. Sign the academic end user license agreement [here](https://ironcladapp.com/public-launch/67eef9f72546974f670580aa)
+   - Use your academic email address
+2. Register for an Anaconda for Education account [here](https://www.anaconda.com/industries/education)
+   - Use your academic email address
+   - Afterwards you should see a screen that confirms your account
+3. Download Anaconda by going [here](https://auth.anaconda.com/ui/registration/aaf86bfd-056b-4f45-90f6-67fa83d2d5ef)
+   - You will need to sign in with your Anaconda for Education account
+
 ## What is Python?
 From www.python.org: "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance."
 
